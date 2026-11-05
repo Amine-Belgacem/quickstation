@@ -6,10 +6,6 @@ It combines station discovery, supported live audio and HLS playback, broadcaste
 
 Built with C++20, Win32, BASS, and BASSHLS.
 
-![Screenshot of quickstation](images/screenshot.jpg)
-
-*QuickStation running with its default favorites in an isolated local profile.*
-
 ## Features
 
 - Browse the Radio Browser directory by country, genre, or station name.
