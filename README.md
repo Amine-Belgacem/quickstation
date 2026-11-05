@@ -1,6 +1,10 @@
 # QuickStation
 
-A compact Windows internet radio player with favorites, station discovery, and playlist import/export. Built with C++20, Win32, BASS, and BASSHLS.
+QuickStation keeps internet radio within reach in a compact Windows desktop player. Save the stations you actually listen to, browse for new ones by country or genre, or add a stream URL directly. Favorites are the default view, so returning to a station does not require another directory search.
+
+It combines station discovery, supported live audio and HLS playback, broadcaster-provided song titles, and playlist import/export in one native interface. Automatic reconnection handles recoverable playback failures, while local settings retain your station collection between sessions. This is useful for everyday listening and maintaining your own station list; it plays live broadcasts rather than recording or time-shifting them.
+
+Built with C++20, Win32, BASS, and BASSHLS.
 
 ## Features
 
